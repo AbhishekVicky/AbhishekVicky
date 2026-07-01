@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi 👋, I'm Abhishek Kumar
+Full Stack Web Developer | Web Development Mentor | Cybersecurity Enthusiast | AI Explorer
 
-<!--
-**AbhishekVicky/AbhishekVicky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"Building projects that solve real problems while continuously learning and helping others grow."
 
-Here are some ideas to get you started:
+I'm currently pursuing Bachelor of Computer Applications (BCA) from IGNOU.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building full-stack web applications, learning modern technologies, mentoring students, and exploring AI.
+
+During my journey, I had the opportunity to mentor students in a Web Development & Cybersecurity Internship Program, where I guided beginners through web development fundamentals and introduced cybersecurity concepts.
+
+Apart from coding, I enjoy networking with developers, attending tech events, and contributing to the developer community.
+
+Currently Learning
+Advanced Backend
+AI & Machine Learning
+System Design
+Cloud Computing
+DevOps
