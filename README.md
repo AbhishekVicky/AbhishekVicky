@@ -2,6 +2,7 @@
   <img src="pp.png" alt="Banner">
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+I'm+Abhishek+Kumar;Full+Stack+Developer;AI+Enthusiast;Web+Development+Mentor;Always+Learning+🚀)](https://git.io/typing-svg)
 
 Hi 👋, I'm Abhishek Kumar
 Full Stack Web Developer | Web Development Mentor | Cybersecurity Enthusiast | AI Explorer
